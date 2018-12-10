@@ -1,4 +1,4 @@
-﻿ Indexation de page pour Omeka S
+﻿Module d'Indexation de documents pour Omeka S
 
 
 --Installation--
