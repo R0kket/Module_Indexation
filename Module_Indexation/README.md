@@ -18,10 +18,17 @@
 
 
 
-![alt text](http://image.noelshack.com/fichiers/2018/50/1/1544479326-nuage-de-mots.png)
 
+Indexation
 
 ![Alt text](http://image.noelshack.com/fichiers/2018/50/1/1544479238-index.jpg)
 
 
+Recherche
+
 ![Alt text](http://image.noelshack.com/fichiers/2018/50/1/1544479330-recherche.png)
+
+Nuage de mots clés
+
+
+![alt text](http://image.noelshack.com/fichiers/2018/50/1/1544479326-nuage-de-mots.png)
