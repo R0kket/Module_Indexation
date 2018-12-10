@@ -16,7 +16,7 @@
 - Cliquer sur nuage de mots pour avoir un nuage de mot des plus utilisés 
 
 
-![alt text](C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\capture.jpg?raw=true "Optional Title")
+![alt text](\C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\capture.jpg?raw=true "Optional Title")
 
 
 ![alt text](C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\recherche.jpg)
