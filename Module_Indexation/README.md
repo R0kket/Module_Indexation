@@ -22,4 +22,4 @@
 ![alt text](C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\recherche.jpg)
 
 
-![alt text](C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\capture.jpg)
+![alt text](/C:/Users/Zack.Zack-PC/Desktop/Module_Indexation/capture.jpg?raw=true "Optional Title")
