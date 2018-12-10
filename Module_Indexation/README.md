@@ -16,10 +16,10 @@
 - Cliquer sur nuage de mots pour avoir un nuage de mot des plus utilisés 
 
 
-![alt text](\C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\capture.jpg?raw=true "Optional Title")
+http://image.noelshack.com/fichiers/2018/50/1/1544479238-index.jpg
 
 
 ![alt text](C:\Users\Zack.Zack-PC\Desktop\Module_Indexation\recherche.jpg)
 
 
-![alt text](/C:/Users/Zack.Zack-PC/Desktop/Module_Indexation/capture.jpg?raw=true "Optional Title")
+![Alt text](http://image.noelshack.com/fichiers/2018/50/1/1544479238-index.jpg)
