@@ -1,4 +1,7 @@
-﻿Module d'Indexation de documents pour Omeka S
+﻿Module d'Indexation de documents HTML pour Omeka S
+
+Version BETA, pas prête à utilisation.
+
 
 
 --Installation--
