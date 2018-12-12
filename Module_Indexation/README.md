@@ -45,7 +45,7 @@ Email: Zack.ouzegdouh@gmail.com
 
 --Copyright--
 
-Zakaria Ouzegdouh (github: R0kket)
+Zakaria Ouzegdouh 2018-2019
 
 --Licence--
 
