@@ -1,4 +1,4 @@
-﻿Module OMEKA S d'Indexation de documents HTML pour Omeka S
+﻿Module OMEKA S d'Indexation de documents HTML.
 
 Version BETA, pas prête à utilisation.
 
@@ -7,7 +7,7 @@ Version BETA, pas prête à utilisation.
 --Installation--
 
 -Copier dans le dossier Modules d'Omekas S
--rendez vous sur votre dashboard et installer le module à partir de la rubrique Module
+-rendez vous sur votre dashboard et installer le module à partir de la rubrique Module -> Installation
 
 
 
