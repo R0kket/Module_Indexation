@@ -11,7 +11,7 @@ Version BETA, pas prête à utilisation.
 
 
 
---utilisation--
+--Utilisation--
 
 - Placer vos documents dans le repertoire Test
 - Lancer ensuitee l'indexation en cliquant sur le lien "Débuter l'indexation" 
