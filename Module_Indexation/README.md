@@ -35,3 +35,17 @@ Version BETA, pas prête à utilisation.
 
 
 ![alt text](https://github.com/R0kket/Module_Indexation/blob/master/Module_Indexation/capture/nuage%20de%20mots.PNG)
+
+
+
+--Contact--
+
+Email: Zack.ouzegdouh@gmail.com
+
+
+--Copyright--
+Zakaria Ouzegdouh (github: R0kket)
+
+--Licence--
+
+Open Source
