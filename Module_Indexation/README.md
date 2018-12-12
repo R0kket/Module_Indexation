@@ -1,4 +1,4 @@
-﻿Module d'Indexation de documents HTML pour Omeka S
+﻿Module OMEKA S d'Indexation de documents HTML pour Omeka S
 
 Version BETA, pas prête à utilisation.
 
@@ -22,16 +22,16 @@ Version BETA, pas prête à utilisation.
 
 
 
-Indexation
+--Indexation--
 
 ![Alt text](https://github.com/R0kket/Module_Indexation/blob/master/Module_Indexation/capture/index.jpg)
 
 
-Recherche
+--Recherche--
 
 ![Alt text](https://github.com/R0kket/Module_Indexation/blob/master/Module_Indexation/capture/recherche.PNG)
 
-Nuage de mots clés
+--Nuage de mots clés--
 
 
 ![alt text](https://github.com/R0kket/Module_Indexation/blob/master/Module_Indexation/capture/nuage%20de%20mots.PNG)
